@@ -1,5 +1,4 @@
-<?php include('../conrollers/controllerArticle.php');?>
-
+<?php include('../controllers/controllerArticle.php');?>
 <?php foreach($articles as $article):?>
     <div class="card" style="width: 60rem; text-align:center;margin:3px auto; ">
   <div class="card-body" >
